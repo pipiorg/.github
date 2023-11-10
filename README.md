@@ -1,4 +1,4 @@
-# ✍ Welcome! PiPi
+# 🌠 Welcome! PiPi
 
 ## 💥 Planning
 
