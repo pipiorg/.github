@@ -4,6 +4,7 @@
 
 - PiPiJava: Java version for PiPi implementation
 - PiPiCSharp: C# version for PiPi implementation
+- PiPiWasm: JavaScript web assembly version for PiPi implementation
 
 ## 👋 Other
 
