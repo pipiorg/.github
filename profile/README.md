@@ -9,8 +9,6 @@
 
 If you have other question, please contact the organization owner SYSTEX Corporation.
 
-SYSTEX Corporation, F25B.
-
-7F., No. 318, Ruiguang Rd., Neihu Dist., Taipei City 114 , Taiwan (R.O.C.)
-
+SYSTEX Corporation, F25B.<br>
+7F., No. 318, Ruiguang Rd., Neihu Dist., Taipei City 114 , Taiwan (R.O.C.)<br>
 +886 2 7720 1888
