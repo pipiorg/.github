@@ -3,9 +3,12 @@
 ## 💥 Planning
 
 - PiPiJava: Java version for PiPi implementation
-- PiPiCSharp: C# version for PiPi implementation
 - PiPiWasm: JavaScript web assembly version for PiPi implementation
 
 ## 👋 Other
 
-if you have other question, please contact the organization owner email - <ch.chang.software@gmail.com>
+If you have other question, please contact the organization owner SYSTEX Corporation.
+
+SYSTEX Corporation, F25B.
+7F., No. 318, Ruiguang Rd., Neihu Dist., Taipei City 114 , Taiwan (R.O.C.)
++886 2 7720 1888
